@@ -1,4 +1,4 @@
-![logo](https://github.com/parth-arora777/parth-arora777/blob/main/linkedin%20banner.jpg)
+![logo](https://github.com/parth-arora777/parth-arora777/blob/cd5e3d97b9822480cdcad93aea1d1ea7a55966ed/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Parth Arora</h1>
 <h3 align="center">## 🌟 Aspiring Data Analyst I am passionate about extracting insights from data and helping businesses make informed decisions. I love to explore, analyze, and visualize data, and I'm continually learning to hone my skills in data analysis.</h3>
 <img align="right" alt="coding" width="400" src="https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif">
